@@ -1,1 +1,0 @@
-﻿<%@ Application Language="vb" CodeBehind="Global.asax.vb" Inherits="SelectedObjects.Web.Global"%>
